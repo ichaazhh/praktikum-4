@@ -26,7 +26,7 @@ class RecipeApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       title: 'Recipe Calculator',
-      home: MyHomePage(title: 'Recipe Calculator'),
+      home: MyHomePage(title: 'Recipes Calculator'),
     );
   }
 
